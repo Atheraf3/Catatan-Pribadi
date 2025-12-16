@@ -1,6 +1,6 @@
-#Catatan Pribadi (Personal Notes App)Aplikasi web sederhana untuk mengelola catatan pribadi. Proyek ini dibangun menggunakan **React** dan **Vite**, memungkinkan pengguna untuk membuat, menyimpan, mengarsipkan, dan menghapus catatan dengan antarmuka yang responsif.
+# Catatan Pribadi (Personal Notes App)Aplikasi web sederhana untuk mengelola catatan pribadi. Proyek ini dibangun menggunakan **React** dan **Vite**, memungkinkan pengguna untuk membuat, menyimpan, mengarsipkan, dan menghapus catatan dengan antarmuka yang responsif.
 
-##🌟 FiturBerdasarkan kode sumber, aplikasi ini memiliki fitur-fitur berikut:
+## FiturBerdasarkan kode sumber, aplikasi ini memiliki fitur-fitur berikut:
 
 * **Menambah Catatan Baru**:
 * Form input untuk judul dan isi catatan.
@@ -26,7 +26,7 @@
 * [Vite](https://vitejs.dev/) - Build tool dan development server yang cepat.
 * CSS3 - Styling kustom (Dark theme).
 
-##📂 Struktur Proyek```bash
+## Struktur Proyek```bash
 src/
 ├── components/
 │   ├── NoteInput.jsx   # Komponen form untuk tambah catatan
@@ -41,7 +41,7 @@ src/
 
 ```
 
-##🚀 Cara MenjalankanIkuti langkah-langkah ini untuk menjalankan proyek di komputer lokal Anda:
+## Cara MenjalankanIkuti langkah-langkah ini untuk menjalankan proyek di komputer lokal Anda:
 
 ###1. PrasyaratPastikan Anda sudah menginstal **Node.js** (versi terbaru direkomendasikan).
 
