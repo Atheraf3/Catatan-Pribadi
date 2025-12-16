@@ -18,7 +18,7 @@ Aplikasi ini memiliki fitur-fitur berikut:
 
 - [React](https://react.dev/) (v19)
 - [Vite](https://vitejs.dev/)
-- CSS3 (Custom Styling)
+- [CSS3](https://w3schools.com/Css/)
 
 ## 📂 Struktur Proyek
 
@@ -39,23 +39,23 @@ src/
 
 ## Cara Menjalankan (Local Development)Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal Anda:
 
-###1. PrasyaratPastikan **Node.js** dan **npm** sudah terinstal di komputer Anda.
+### 1. PrasyaratPastikan **Node.js** dan **npm** sudah terinstal di komputer Anda.
 
-###2. InstalasiClone repositori ini, kemudian masuk ke direktori proyek dan instal dependensi:
+### 2. InstalasiClone repositori ini, kemudian masuk ke direktori proyek dan instal dependensi:
 
 ```bash
 npm install
 
 ```
 
-###3. Menjalankan Server DevelopmentJalankan perintah berikut untuk memulai server lokal. Aplikasi biasanya akan berjalan di `http://localhost:5173`.
+### 3. Menjalankan Server DevelopmentJalankan perintah berikut untuk memulai server lokal. Aplikasi biasanya akan berjalan di `http://localhost:5173`.
 
 ```bash
 npm run dev
 
 ```
 
-###4. Build untuk ProductionUntuk membuat versi produksi yang siap deploy (menghasilkan folder `dist`):
+### 4. Build untuk ProductionUntuk membuat versi produksi yang siap deploy (menghasilkan folder `dist`):
 
 ```bash
 npm run build
